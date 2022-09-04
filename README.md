@@ -67,3 +67,9 @@ npm run build
 #### Watch Video
 
 [Youtube Pages](https://www.youtube.com/watch?v=vDuXmQPcSL0&feature=emb_imp_woyt)
+
+
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
