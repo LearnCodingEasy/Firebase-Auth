@@ -4,8 +4,12 @@
 
 > cd projectName
 
-#### Create Src > index.js
-#### Create Dist > index.html
+1. Create
+
+- Src >
+  - index.js
+- Dist >
+  - index.html
 
 ## Work With Webpack
 
@@ -22,6 +26,8 @@ npm init -y
 ```text
 npm i webpack webpack-cli -D
 ```
+
+**This Is Create Folder node_modules**
 
 #### Create a File Named Webpack.Config.Js
 
