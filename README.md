@@ -4,6 +4,9 @@
 
 > cd projectName
 
+#### Create Src > index.js
+#### Create Dist > index.html
+
 ## Work With Webpack
 
 #### Project Start
@@ -11,6 +14,8 @@
 ```text
 npm init -y
 ```
+
+**This Is Create File Package.json**
 
 #### Install Webpack & Webpack-Cli
 
