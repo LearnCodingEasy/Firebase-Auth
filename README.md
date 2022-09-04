@@ -4,7 +4,7 @@
 
 > cd projectName
 
-1. Create
+### Create
 
 - Src >
   - index.js
